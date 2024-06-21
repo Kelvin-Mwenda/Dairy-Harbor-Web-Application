@@ -59,7 +59,7 @@ hr{
 @media(max-width:1000px){
     .Login-container{
         align-items: center;
-        margin: 70px;
+        margin: 50px;
     }
     .login1-form{
         width: 300px;
