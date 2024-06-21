@@ -27,9 +27,11 @@
 }
 @media(max-width:1000px){
     .sign-up-container{
-        margin:  auto;
+        align-items: center;
+        margin: 50px;
     }
     .sign-up-form{
+        width: 400px;
         align-items: center;
         margin-left: 10px;
         margin-right: 100px;
